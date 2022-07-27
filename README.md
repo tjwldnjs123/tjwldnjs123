@@ -4,6 +4,6 @@
 
 </div>
 
-<center>![71863da3aa9943a22f24a76d0718ea23](https://user-images.githubusercontent.com/100896832/181172922-dbc160b2-f15f-42c9-b3ca-56e099226b78.gif)</center>
+![71863da3aa9943a22f24a76d0718ea23](https://user-images.githubusercontent.com/100896832/181172922-dbc160b2-f15f-42c9-b3ca-56e099226b78.gif)
 
 
