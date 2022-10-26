@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello 👋</h1>
-  <h3>Welcome to my page 🤭<br>I'm jiwon and I'm learning to coding.</h3>
+  <h3>Welcome to my page 🤭</h3>
 <img src="https://img.extmovie.com/files/attach/images/135/409/228/049/71863da3aa9943a22f24a76d0718ea23.gif" width="500" height="400"/><br>
   <h3>✨Front-end Stack✨</h3><br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> 
